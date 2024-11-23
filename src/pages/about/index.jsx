@@ -1,7 +1,7 @@
 export default function About() {
   return (
-    <div>
-      <h1>About Component</h1>
+    <div className="content">
+      <h1>About Page</h1>
     </div>
   );
 }
